@@ -27,7 +27,6 @@ Inspired by how atoms are represented in textbooks and the idea to bring static 
 ## 🚀 How to Run
 Just open `index.html` in your browser!
 
- 🗓️ Built In
+ ## 🗓️ Built In
 Year: 2023
-
 Context: High school project (Class 12)
